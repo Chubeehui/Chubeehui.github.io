@@ -1,16 +1,13 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+ Zehui Li received the B.S. degree in electronic information engineering from Shanghai University, Shanghai, China, in 2021. She is currently working toward the Ph.D. degree in power electronics with the School of Information Science and Technology, ShanghaiTech  University, Shanghai, China.  Her current research interests include point-of-load converter, light load efficiency improvement and magnetic design in data center applications.
 
 #### Email
-sli[at]cumt.edu.cn
+lizh2[at]shanghaitech.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Power Electronics, ShanghaiTech University, Shanghai, China, 2023-2026 (Expected).\
+M.S., Power Electronics, ShanghaiTech University, Shanghai, China, 2021-2023.\
+B.S., Electronic Information Engineering, Shanghai University, Shanghai, China, 2017-2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Voltage regulator modules in data center applications, nonlinear coupled inductor and thermal management of dc/dc converters..
 
