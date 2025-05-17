@@ -1,12 +1,8 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- [C1] Z. Wang, <strong style="font-weight: 900;">Z. Li</strong>, and H. Wang*,"Reconfigurable trans-inductor voltage regulator with improved light load efficiency," in <strong style="font-weight: 900;">Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</strong>, Atlanta, GA, May 2025.<strong style="font-weight: 900;">(Won the PSMA travel grant.)</strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10977329)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- [C2] <strong style="font-weight: 900;">Z. Li</strong>, J. Liang, and H. Wang*, "Weight judgement based thermal balancing strategy for interleaved Buck converters," in <strong style="font-weight: 900;">Proc. IEEE Energy Convers. Congr. Expo. (ECCE)</strong>, Detroit, MI, Oct. 2022.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9947682)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- [C3] <strong style="font-weight: 900;">Z. Li</strong>, M. Zhou, and H. Wang*, "Temperature sensorless thermal management strategy for interleaving power converter," in <strong style="font-weight: 900;">Proc. Int. Power Electron. Conf. (IPEC-ECCE Asia)</strong>, Himeji, Japan, May 2022, pp. 466-470.[[Paper]](https://ieeexplore.ieee.org/abstract/document/9807012)
 
