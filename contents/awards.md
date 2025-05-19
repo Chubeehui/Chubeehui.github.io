@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- 2023-2024学年 上海科技大学三好学生；
 
-- First-prize Scholarship of CUMT, 2024.
+- 2024第二届电力电子科普作品创作大赛入围奖；
 
-- First-prize Scholarship of CUMT, 2023.
+- 2024年上海科技大学第四届运动会学生组女子铅球项目第7名；
 
-- Freshman Scholarship of CUMT, 2022.
+- 2022-2023学年 上海科技大学优秀学生；
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 2021-2022学年 上海科技大学优秀学生；
