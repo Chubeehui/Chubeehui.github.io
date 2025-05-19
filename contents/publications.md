@@ -1,3 +1,7 @@
+- [J1] <strong style="font-weight: 900;">Z. Li</strong>, Q. Pan, J. Liang, J. Liang, M. Fu, and H. Wang*, "Active Clamped Half-Bridge CDR Converter for 48V Data Center Voltage Regulator Modules," <strong style="font-weight: 900;">IEEE Trans. Ind. Electron.</strong>, under review.
+
+- [J2] <strong style="font-weight: 900;">Z. Li</strong>, J. Liang, M. Fu, T. Long, and H. Wang*, "Nonlinear Coupled Inductor-Based Light-Load Efficiency Boost Technique for Trans-Inductor Voltage Regulators," <strong style="font-weight: 900;">IEEE Trans. Power Electron.</strong>, under review.
+
 - [C1] Z. Wang, <strong style="font-weight: 900;">Z. Li</strong>, and H. Wang*,"Reconfigurable trans-inductor voltage regulator with improved light load efficiency," in <strong style="font-weight: 900;">Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)</strong>, Atlanta, GA, May 2025.<strong style="font-weight: 900;">(Won the PSMA travel grant.)</strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/10977329)
 
 
